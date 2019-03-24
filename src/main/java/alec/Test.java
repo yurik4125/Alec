@@ -7,6 +7,9 @@ public class Test {
         return x;
     }
 
-
+    public int sub (int x){
+        x--;
+        return x;
+    }
 
 }
